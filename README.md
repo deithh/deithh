@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Janek</h1>
 <h3 align="center">IT student from Poland</h3>
 
-- I’m currently learning **reinforcement learning & recurrent neural networks**
+- I’m currently working on **Flask web application**
+- I'm currently learning **Alghoritms and data structures - CSES problem set**
 
 - How to reach me **jan.ciesla@student.put.poznan.pl**
 
