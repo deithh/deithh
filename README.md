@@ -1,8 +1,14 @@
 <h1 align="center">Hi, I'm Janek</h1>
 <h3 align="center">IT student from Poland</h3>
 
-- I’m currently working on **Flask web application**
-- I'm currently learning **Alghoritms and data structures - CSES problem set**
+Akai Code Hackathon October 2022  
+"The Social Influence" – 1st place  
+
+Huawei Tech Arena Poland November 2024  
+OOD Approximate Nearest Neighbors Search – 2nd place  
+
+Lion’s Den ING Risk Modelling Challenge April 2025
+Real Estate Valuation Modeling - 4th-6th place
 
 - How to reach me **jan.ciesla@student.put.poznan.pl**
 
